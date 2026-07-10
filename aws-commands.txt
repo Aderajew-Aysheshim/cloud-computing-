@@ -1,0 +1,2 @@
+aws ec2 describe-instances
+aws s3 ls
